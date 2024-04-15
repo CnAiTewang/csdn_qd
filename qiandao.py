@@ -1,7 +1,7 @@
 import os
 import re
 from DecryptLogin import login
-from DecryptLogin.platforms.music163 import Cracker
+##from DecryptLogin.platforms.music163 import Cracker
 
 '''网易云音乐自动签到'''
 class NeteaseSignin():
