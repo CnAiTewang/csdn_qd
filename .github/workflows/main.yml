@@ -23,4 +23,4 @@ jobs:
       env:
         NETEASE_USERNAME: ${{ secrets.NETEASE_USERNAME }}
         NETEASE_PASSWORD: ${{ secrets.NETEASE_PASSWORD }}
-      run: python signin.py
+      run: python qiandao.py
